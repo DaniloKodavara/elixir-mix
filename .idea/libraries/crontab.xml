@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="crontab" type="mix">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/crontab/lib" />
+    </SOURCES>
+  </library>
+</component>

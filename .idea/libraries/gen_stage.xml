@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gen_stage" type="mix">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/gen_stage/lib" />
+    </SOURCES>
+  </library>
+</component>
